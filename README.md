@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Nicolas Henrique
+# 👋 Nicolas Henrique Costa Santos
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas (Atualmente) 
 
