@@ -18,7 +18,7 @@
 
 🚀 Tenho interesse em **desenvolvimento de jogos**, **automação**, **programação desktop** e outras áreas da tecnologia.
 
-🧠 Ainda sou novato, mas estou evoluindo um código por vez.
+🧠 Aprendendo de tudo um pouco
 
 > “Todo programador já foi iniciante. A diferença é que alguns desistiram no primeiro erro de ponto e vírgula.”
 
