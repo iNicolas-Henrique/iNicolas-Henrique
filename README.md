@@ -51,6 +51,6 @@
 using namespace std;
 
 int main() {
-    cout << "Aprendendo C++ um bug por vez!" << endl;
+    cout << "Aprendendo um pouco" << endl;
     return 0;
 }
