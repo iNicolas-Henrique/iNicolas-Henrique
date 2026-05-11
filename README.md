@@ -5,6 +5,8 @@
 ![Python](https://img.shields.io/badge/Python-Aprendendo-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Novato%20em%20evolu%C3%A7%C3%A3o-brightgreen?style=for-the-badge)
 ![Bug Hunter](https://img.shields.io/badge/Bugs-Estou%20ca%C3%A7ando-red?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-IDE-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ---
 
