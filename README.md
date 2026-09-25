@@ -20,7 +20,7 @@
 
 🧠 Aprendendo de tudo um pouco
 
-> “Todo programador já foi iniciante. A diferença é que alguns desistiram no primeiro erro de ponto e vírgula.”
+
 
 ---
 
