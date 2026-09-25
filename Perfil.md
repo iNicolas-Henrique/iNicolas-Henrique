@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:090406,35:3B0715,70:76152E,100:B02A49&text=Nicolas%20Henrique&fontColor=FFFFFF&fontSize=46&fontAlignY=43&stroke=8B1E3F&strokeWidth=1&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:090304,35:3D0A16,65:7A1830,100:B12C4B&text=Nicolas%20Henrique&fontColor=FFFFFF&fontSize=46&fontAlignY=42&stroke=8F1E3D&strokeWidth=1&animation=fadeIn&desc=ADS%20%7C%20Python%20%7C%20C%2B%2B&descAlignY=63&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ANÁLISE%20E%20DESENVOLVIMENTO%20DE%20SISTEMAS-14070B?style=for-the-badge&labelColor=681329&color=14070B"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=8F1E3D&center=true&vCenter=true&width=700&lines=%E2%97%8F+Lua+escura+e+identidade+vinho+%E2%97%8F" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ANÁLISE%20E%20DESENVOLVIMENTO%20DE%20SISTEMAS-16070B?style=for-the-badge&labelColor=6E1730&color=16070B"/>
 </p>
 
 <p align="center">
@@ -14,21 +18,19 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DESKTOP%20DEVELOPMENT-250A12?style=flat-square&labelColor=6A142A"/>
-  <img src="https://img.shields.io/badge/AUTOMAÇÃO-250A12?style=flat-square&labelColor=79182F"/>
-  <img src="https://img.shields.io/badge/GAME%20DEVELOPMENT-250A12?style=flat-square&labelColor=881C36"/>
-  <img src="https://img.shields.io/badge/SOFTWARE%20DEVELOPMENT-250A12?style=flat-square&labelColor=971F3D"/>
+  <img src="https://img.shields.io/badge/DESKTOP%20APPLICATIONS-250A12?style=flat-square&labelColor=641328"/>
+  <img src="https://img.shields.io/badge/AUTOMAÇÃO-250A12?style=flat-square&labelColor=77182F"/>
+  <img src="https://img.shields.io/badge/GAME%20DEVELOPMENT-250A12?style=flat-square&labelColor=891E37"/>
+  <img src="https://img.shields.io/badge/SOFTWARE-250A12?style=flat-square&labelColor=9A2340"/>
 </p>
 
 ---
 
 ## Sobre
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, com foco atual em Python e C++.
+Estudante de **Análise e Desenvolvimento de Sistemas**, com foco atual em **Python** e **C++**.
 
-Tenho interesse em desenvolvimento de software, aplicações desktop, automação, desenvolvimento de jogos e estudo de ferramentas e tecnologias relacionadas à programação.
-
-Atualmente utilizo projetos acadêmicos e pessoais para desenvolver experiência prática e melhorar minha base em lógica, estruturação de código e desenvolvimento de aplicações.
+Tenho interesse em desenvolvimento de software, aplicações desktop, automação, desenvolvimento de jogos e projetos voltados à prática de programação.
 
 ---
 
@@ -52,14 +54,12 @@ Atualmente utilizo projetos acadêmicos e pessoais para desenvolver experiência
 
 ## Áreas de interesse
 
-```text
-Software Development
-Desktop Applications
-Automation
-Game Development
-Programming Logic
-Academic Projects
-```
+- Desenvolvimento de software
+- Aplicações desktop
+- Automação
+- Desenvolvimento de jogos
+- Lógica de programação
+- Projetos acadêmicos
 
 ---
 
