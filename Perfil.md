@@ -1,20 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:090304,35:3D0A16,65:7A1830,100:B12C4B&text=Nicolas%20Henrique&fontColor=FFFFFF&fontSize=46&fontAlignY=42&stroke=8F1E3D&strokeWidth=1&animation=fadeIn&desc=ADS%20%7C%20Python%20%7C%20C%2B%2B&descAlignY=63&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:120304,25:3A0814,60:7D1730,100:C12D4E&text=Nicolas%20Henrique&fontColor=FFFFFF&fontSize=46&fontAlignY=40&stroke=8B1E3F&strokeWidth=1&animation=fadeIn&desc=Python%20%7C%20C%2B%2B&descAlignY=62&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=8F1E3D&center=true&vCenter=true&width=700&lines=%E2%97%8F+Lua+escura+e+identidade+vinho+%E2%97%8F" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1100&color=B22A49&center=true&vCenter=true&width=650&lines=Python+%7C+C%2B%2B;Nicolas+Henrique" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ANÁLISE%20E%20DESENVOLVIMENTO%20DE%20SISTEMAS-16070B?style=for-the-badge&labelColor=6E1730&color=16070B"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-16080C?style=for-the-badge&logo=python&logoColor=C73555"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-16080C?style=for-the-badge&logo=cplusplus&logoColor=A51F42"/>
-  <img src="https://img.shields.io/badge/VS%20CODE-16080C?style=for-the-badge&logo=visualstudiocode&logoColor=C73555"/>
-  <img src="https://img.shields.io/badge/VISUAL%20STUDIO-16080C?style=for-the-badge&logo=visualstudio&logoColor=8F1D3A"/>
+  <img src="https://img.shields.io/badge/PYTHON-18070B?style=for-the-badge&logo=python&logoColor=C93A57"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-18070B?style=for-the-badge&logo=cplusplus&logoColor=9E2442"/>
+  <img src="https://img.shields.io/badge/GITHUB-18070B?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/VS%20CODE-18070B?style=for-the-badge&logo=visualstudiocode&logoColor=B22A49"/>
+  <img src="https://img.shields.io/badge/VISUAL%20STUDIO-18070B?style=for-the-badge&logo=visualstudio&logoColor=8B1E3F"/>
 </p>
 
 <p align="center">
@@ -80,7 +77,7 @@ Tenho interesse em desenvolvimento de software, aplicações desktop, automaçã
   </tr>
   <tr>
     <td><b>Foco</b></td>
-    <td>Desenvolvimento e prática através de projetos</td>
+    <td>Desenvolvimento e prática por meio de projetos</td>
   </tr>
 </table>
 
